@@ -105,7 +105,7 @@
     <!-- Información inferior -->
     <p class="mt-4 text-sm text-slate-500">
       Herramienta educativa para explorar gráficas y resolver ejercicios
-      matemáticos.
+      matemáticos
     </p>
   </main>
 </div>
